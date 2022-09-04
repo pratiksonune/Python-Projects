@@ -1,1 +1,2 @@
-python Vehicles_detection.py -x carx.xml -v carv.mp4
+Run this command in cmd with same as project folder:- 
+                                                      python Vehicles_detection.py -x carx.xml -v carv.mp4
